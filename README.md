@@ -2,6 +2,12 @@
 
 **Root2Leaf** è un'applicazione C++ che esplora alberi binari generati casualmente, identificando il cammino da radice a foglia con la massima somma di valori.
 
+
+
+https://github.com/Colle-debug/Root2Leaf/assets/126181486/c80bcd0c-589d-44af-aa68-aeff3137cf52
+
+
+
 ## 1. generateRandomBinaryTree 🌱
 
 Genera un albero binario casuale con parametri controllati. La funzione accetta due parametri importanti:
@@ -19,10 +25,12 @@ Aggiorna l'interfaccia grafica eliminando la visualizzazione precedente e genera
 ## 4. maxR2L 🚀
 
 Calcola la massima somma del percorso da radice a foglia utilizzando un approccio ricorsivo. L'algoritmo calcola e restituisce la somma massima possibile.
+**Reimplementazione personale dell'algoritmo scelto.**
 
 ## 5. printPath 📜
 
 Memorizza e stampa il percorso con la massima somma. Durante la visualizzazione dell'albero, questa funzione evidenzia i nodi appartenenti al percorso massimo.
+**Reimplementazione personale dell'algoritmo scelto e riadattamento per lo scopo dell'applicazione.**
 
 ## Utilizzo
 
@@ -37,11 +45,10 @@ Compila il codice sorgente C++ e esegui il programma. L'interfaccia grafica most
 
 Vincenzo Colle
 
-🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳
-🌳                                                                                                          🌳
-🌳 *Progetto sviluppato per l'esame di Tecniche di Programmazione - A.A. 2022/23 - Prof. Bria Alessandro*    🌳
-🌳                                                                                                           🌳
-🌳 *Vincenzo Colle - Università degli Studi di Cassino e deL Lazio Meridionale*                              🌳
-🌳                                                                                                           🌳
-🌳 Grazie per aver utilizzato **Root2Leaf**! 🌿                                                             🌳
-🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳
+                                                                                                          
+ *Progetto sviluppato per l'esame di Tecniche di Programmazione - A.A. 2022/23 - Prof. Bria Alessandro*    
+                                                                                                           
+ *Vincenzo Colle - Università degli Studi di Cassino e deL Lazio Meridionale*                              
+                                                                                                           
+ Grazie per aver utilizzato **Root2Leaf**! 🌿                                                             
+
